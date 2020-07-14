@@ -1,0 +1,22 @@
+{
+  "name": "sam-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/SAMdesk/sam-js",
+  "authors": [
+    "Jordan Ranson <jordan@jordanranson.com>"
+  ],
+  "description": "JavaScript library for interacting with the SAM API.",
+  "main": "dist/sam.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    "package.json",
+    "README.md",
+    "Gruntfile.js"
+  ]
+}

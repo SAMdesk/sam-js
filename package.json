@@ -1,0 +1,25 @@
+{
+  "name": "sam-js",
+  "version": "0.0.0",
+  "description": "JavaScript library to aid in interaction with our public APIs.",
+  "main": "src/sam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SAMdesk/sam-js.git"
+  },
+  "author": "Jordan Ranson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SAMdesk/sam-js/issues"
+  },
+  "homepage": "https://github.com/SAMdesk/sam-js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "bower": "~1.2.8",
+    "grunt-contrib-uglify": "~0.3.2"
+  }
+}
